@@ -1,0 +1,4 @@
+I love programming with Python.
+I love solving chess puzzles.
+I also love finding meaning in large datasets.
+I love creating apps that can run in a browser.

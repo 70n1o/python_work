@@ -1,0 +1,6 @@
+In Python you can create and work with variables.
+In Python you can work with lists and dictionaries.
+In Python you can use conditional statements using if, elif, and else.
+In Python you can work with user input.
+In Python you can create functions and classes.
+In Python you can read and work with files.
